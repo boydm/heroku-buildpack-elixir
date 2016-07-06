@@ -1,5 +1,9 @@
 # Heroku Buildpack for Elixir
 
+## boydm fork: bump elixir to 1.3.1
+
+I intend to go back to the HashNuke version when it bumps up versions
+
 ## Features
 
 * **Easy configuration** with `elixir_buildpack.config` file
